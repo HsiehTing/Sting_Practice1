@@ -1,2 +1,2 @@
-# iOS_TWM_APP
+# Stylish - A E-commerce mock APP
 
