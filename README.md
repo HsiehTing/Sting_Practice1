@@ -1,2 +1,2 @@
-# Stylish - A E-commerce mock APP
+# Stylish - An E-commerce mock APP
 
